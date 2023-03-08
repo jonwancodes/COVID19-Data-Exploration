@@ -1,6 +1,7 @@
 # COVID19-Data-Exploration
 
-Click the link below to view my data exploration on a COVID-19 dataset effective March 7th, 2023 (link to dataset: https://ourworldindata.org/covid-deaths) 
+Click the link below to view my data exploration on a COVID-19 dataset effective March 7th, 2023 
+(link to dataset: https://ourworldindata.org/covid-deaths) 
 
 Using BigQuery/SQL, I utilized Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, and Converting Data Types. 
 
