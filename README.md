@@ -19,3 +19,7 @@ For example, as of March 6th, 2023, the United States is the number one country 
 We can find the percent of each country's population that has received at least one vaccine and the percent of the population that is 'fully vaccinated'. For example, in the United States, about 80% of the population has received at least one vaccine dose and 68% of the population is fully vaccinated.
 
 On a slightly more positive news, the likelihood of death after contracting COVID-19 in the United States today is 1.08%. However, this is only a general percentage and does not take into account for age, gender, vacccination status, etc. I believe this would be an interesting topic to dive deeper into for future exploration!
+
+Click the link below to view my dashboard of the COVID-19 dataset that highlights some big numbers!
+
+https://public.tableau.com/shared/KD62TSYZR?:display_count=n&:origin=viz_share_link
