@@ -14,7 +14,7 @@ Dataset contains data from January 8th 2020 to March 6th 2023.
 ## Data Cleaning:
 Split the large dataset from the website into two separate .csv files in order to practice joins with SQL and make the large dataset more managable.
 
-## Link to view my data exploration on a COVID-19 dataset:
+## Link to view my data exploration on COVID-19 dataset:
 https://console.cloud.google.com/bigquery?sq=529249657765:c051e94efe9941d5b02e324a8d0c1e3f
 
 
