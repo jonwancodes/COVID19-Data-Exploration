@@ -6,6 +6,7 @@ With BigQuery/SQL, I utilized Joins, CTE's, Temp Tables, Windows Functions, Aggr
 
 ## Data:
 Link to dataset: https://ourworldindata.org/covid-deaths
+
 Dataset contains data from January 8th 2020 to March 6th 2023
 
 
@@ -29,5 +30,7 @@ https://console.cloud.google.com/bigquery?sq=529249657765:c051e94efe9941d5b02e32
 
 
 ## Data Visualization using Tableau:
-Click the link below to view my dashboard of the COVID-19 dataset that highlights some big numbers!
+
+Click the link to view my dashboard of the COVID-19 dataset that highlights some big numbers!
+
 https://public.tableau.com/shared/KD62TSYZR?:display_count=n&:origin=viz_share_link
