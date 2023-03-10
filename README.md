@@ -1,14 +1,14 @@
 # COVID19-Data-Exploration
 
 ## Objective: 
-To perform an exploratory anaylsis of the COVID-19 pandemic using BigQuery / SQL, and gain insights into the pandemic's death and vaccination dataset.
+To perform an exploratory anaylsis of the COVID-19 pandemic using BigQuery / SQL, and gain insights into the pandemic's death counts and vaccination statuses.
 
-With BigQuery, I utilized Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, and Converting Data Types 
+With BigQuery, I utilized Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, and Converting Data Types.
 
 ## Data:
 Link to dataset: https://ourworldindata.org/covid-deaths
 
-Dataset contains data from January 8th 2020 to March 6th 2023
+Dataset contains data from January 8th 2020 to March 6th 2023.
 
 
 ## Data Cleaning:
