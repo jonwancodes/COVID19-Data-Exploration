@@ -1,11 +1,14 @@
 # COVID19-Data-Exploration
 
-Click the link below to view my data exploration on a COVID-19 dataset effective March 7th, 2023 
+## Objective: 
+To perform an exploratory anaylsis of the COVID-19 pandemic using BigQuery, and gain insights into the pandemic's death and vaccination numbers.
+
+## Click the link below to view my data exploration on a COVID-19 dataset effective March 7th, 2023 
 
 
 https://console.cloud.google.com/bigquery?sq=529249657765:c051e94efe9941d5b02e324a8d0c1e3f
 
-
+## Data
 (Link to dataset: https://ourworldindata.org/covid-deaths) 
 
 
