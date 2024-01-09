@@ -33,4 +33,5 @@ As a healthcare worker in the US that worked directly in COVID-19 units and thro
 ## Data Visualization using Tableau:
 ![Dashboard 1](https://github.com/jonwancodes/COVID19-Data-Exploration-SQL/assets/102621853/4c7e95a8-af31-4342-ab4a-df50aae6b910)
 
+Dashboard can be downloaded and accessed in files to gain a more detailed analysis
 
