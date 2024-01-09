@@ -16,6 +16,7 @@ Split the large dataset from the website into two separate .csv files in order t
 
 ## Link to view my data exploration on COVID-19 dataset:
 https://console.cloud.google.com/bigquery?sq=529249657765:c051e94efe9941d5b02e324a8d0c1e3f
+SQL Code is also available to view in BigQueryCode.md file
 
 
 
